@@ -1,0 +1,6 @@
+repository:
+  file: repo.py
+  fn: def_repo
+scheduler:
+  file: schedule.py
+  fn: def_scheduler
